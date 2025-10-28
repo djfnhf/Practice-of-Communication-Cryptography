@@ -44,4 +44,4 @@
 
 完
 
-![image](screen.jpg)
+![image](screenshot.jpg)
